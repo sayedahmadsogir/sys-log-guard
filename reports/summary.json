@@ -1,7 +1,7 @@
 {
-  "analyzedAt": "2026-11-25T14:13:10.176Z",
+  "analyzedAt": "2026-11-25T14:37:40.179Z",
   "file": "logs/server.log",
-  "filterLevel": "ERROR",
+  "filterLevel": "ALL",
   "totalLines": 6,
   "counts": {
     "INFO": 3,
@@ -9,7 +9,11 @@
     "ERROR": 2
   },
   "matchedLines": [
+    "[INFO] sys-log-guard service started",
+    "[INFO] Connected to market data stream",
+    "[WARN] High latency detected on feed #2",
     "[ERROR] WebSocket timeout after 5000ms",
+    "[INFO] Retry succeeded",
     "[ERROR] Invalid order payload rejected"
   ]
 }
