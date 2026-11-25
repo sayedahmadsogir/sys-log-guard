@@ -1,0 +1,6 @@
+[INFO] sys-log-guard service started
+[INFO] Connected to market data stream
+[WARN] High latency detected on feed #2
+[ERROR] WebSocket timeout after 5000ms
+[INFO] Retry succeeded
+[ERROR] Invalid order payload rejected
