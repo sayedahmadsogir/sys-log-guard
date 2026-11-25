@@ -1,1 +1,4 @@
-console.log("sys-log-guard Lesson 1 initialized!");
+const appName: string = "sys-log-guard";
+const version: string = "1.0.0";
+
+console.log(`[${appName}] v${version} is ready!`);
