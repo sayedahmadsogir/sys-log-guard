@@ -1,0 +1,15 @@
+{
+  "analyzedAt": "2026-11-25T14:13:10.176Z",
+  "file": "logs/server.log",
+  "filterLevel": "ERROR",
+  "totalLines": 6,
+  "counts": {
+    "INFO": 3,
+    "WARN": 1,
+    "ERROR": 2
+  },
+  "matchedLines": [
+    "[ERROR] WebSocket timeout after 5000ms",
+    "[ERROR] Invalid order payload rejected"
+  ]
+}
