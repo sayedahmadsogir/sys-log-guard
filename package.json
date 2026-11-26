@@ -1,7 +1,7 @@
 {
   "name": "sys-log-guard",
-  "version": "1.1.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "A TypeScript & Node.js CLI tool to analyze server logs, generate JSON reports, and trigger health alerts.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "start:env": "node --env-file=.env dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sayed Ahmad Sogir",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
